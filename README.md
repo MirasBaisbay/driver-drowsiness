@@ -3,6 +3,7 @@
 
 This project implements a driver drowsiness detection system using convolutional neural networks (CNNs) and image preprocessing techniques. It evaluates three different CNN architectures and incorporates DeepFace for facial feature extraction to enhance the detection process.
 
+Link to video on how to run the code and project presentation alongside with best model weights saved in pth format: https://drive.google.com/drive/u/2/folders/1wEHLCA67KhyPlEhGITlQmsjudenXfzEi 
 ---
 
 ## Features
