@@ -12,8 +12,8 @@ This project implements a driver drowsiness detection system using convolutional
    - Provides clean and consistent datasets for model training and evaluation.
 
 2. **Model Comparisons**:
-   - **CNN-2 blocks**: Lightweight architecture with 2 convolutional layers.
-   - **CNN-4 blocks**: Extended architecture with 4 convolutional layers.
+   - **CNN-2 blocks**: Lightweight architecture with 2 blocks of convolutional layers.
+   - **CNN-4 blocks**: Extended architecture with 4 blocks of convolutional layers.
    - **EfficientNet-B2**: Advanced model for better feature extraction and performance.
 
 3. **Training Variations**:
