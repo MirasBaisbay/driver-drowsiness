@@ -56,7 +56,7 @@ The project uses a dataset from Roboflow for drowsiness detection. Images were p
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/driver-drowsiness
+   git clone https://github.com/MirasBaisbay/driver-drowsiness
    cd driver-drowsiness
    ```
 
