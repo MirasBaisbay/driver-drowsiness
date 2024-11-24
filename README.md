@@ -51,3 +51,23 @@ The project uses a dataset from Roboflow for drowsiness detection. Images were p
 - TensorFlow or PyTorch
 - DeepFace library
 - A CUDA-enabled GPU for model training
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/driver-drowsiness
+   cd driver-drowsiness
+   ```
+
+2. **Set up the Python environment and install dependencies**:
+   ```bash
+   pipenv install
+   pipenv shell
+   ```
+
+3. **Install additional requirements**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+---
