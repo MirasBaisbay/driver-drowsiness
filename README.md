@@ -72,3 +72,7 @@ The project uses a dataset from Roboflow for drowsiness detection. Images were p
    pip install -r requirements.txt
    ```
 ---
+
+## Author
+
+Developed by Miras Baisbay.
