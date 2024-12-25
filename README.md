@@ -1,4 +1,4 @@
-# ROBT 310: Image Processing Final Project done by Miras Baisbay, Nazerke Abdrakhmanova, Anel Salmenova, and Kamila Spanova
+# ROBT 310: Image Processing Final Project done by Miras Baisbay
 # Driver Drowsiness Detection
 
 This project implements a driver drowsiness detection system using convolutional neural networks (CNNs) and image preprocessing techniques. It evaluates three different CNN architectures and incorporates DeepFace for facial feature extraction to enhance the detection process.
